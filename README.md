@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <h1 align="center">Hi 👋, I'm Fahim Al Rashid</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh. I am also learning AI.</h3>
+<h3 align="center">A passionate full-stack developer from Bangladesh. I am also learning AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:10368/0*TrGKICQAPs-W4wX_"
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ak1l2" target="blank"><img src="https://img.shields.io/twitter/follow/@ak1l2?logo=twitter&style=for-the-badge" alt="@ak1l2" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **SaaS Development**
 
 - 👨‍💻 All of my projects are available at [https://website-based-portfolio-p6rz-es37553ft-fahimars-projects.vercel.app/](https://website-based-portfolio-p6rz-es37553ft-fahimars-projects.vercel.app/)
 
