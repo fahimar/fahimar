@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SaaS Development**
 
-- 👨‍💻 All of my projects are available at [[https://website-based-portfolio-p6rz-es37553ft-fahimars-projects.vercel.app/](https://fahimalrashid.me)](https://fahimalrashid.me)
+- 👨‍💻 All of my projects are available at [[https://fahimalrashid.me](https://fahimalrashid.me)]
 
 - 💬 Ask me about **Web dev, Cloud Computing, Machine Learning**
 
